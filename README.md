@@ -1,7 +1,7 @@
 # IBGE-Cidades
 <p align="center">App para consulta de cidades por região e estado usando a API do IBGE</p>
 
-### Features
+### ✅ Features
 
 - [x] Filtro por Região
 - [x] Filtro por Estado
@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [VueJS](https://vuejs.org/)
 
 
-### Autor
+### ✅ Autor
 ---
 
 <a href="https://github.com/wellington-lima">
