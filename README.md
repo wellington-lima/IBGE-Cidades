@@ -1,22 +1,27 @@
 # IBGE-Cidades
 <p align="center">App para consulta de cidades por região e estado usando a API do IBGE</p>
+<p align="center">
+ <a href="http://www.sophysistemas.com/api-cidades-ibge/">Preview</a>
+</p>
 
 ### ✅ Features
 
 - [x] Filtro por Região
 - [x] Filtro por Estado
+<br>
 
-### 🛠 Tecnologias
+### ⚡ Tecnologias
+<table>
+ <tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></td>
+ </tr>
+</table>
+<br>
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [HTML5](https://dev.w3.org/html5/html-author/)
-- [CSS3](https://www.w3.org/Style/CSS/specs.en.html)
-- [Javascript](https://pt-br.reactjs.org/)
-- [VueJS](https://vuejs.org/)
-
-
-### ✅ Autor
+### 👨🏼‍🏫 Autor
 ---
 
 <a href="https://github.com/wellington-lima">
@@ -28,4 +33,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Welling52805950-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Welling52805950)](https://twitter.com/Welling52805950) [![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-lima-dos-santos-13343143/)](https://www.linkedin.com/in/wellington-lima-dos-santos-13343143/) 
-[![Gmail Badge](https://img.shields.io/badge/-wlima2santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlima2santos@gmail.com)](mailto:wlima2santos@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-wellington@sophysistemas.com-c14438?style=flat-square&logo=Gmail&color=11ab3a&logoColor=white&link=mailto:wellington@sophysistemas.com)](mailto:wellington@sophysistemas.com)
