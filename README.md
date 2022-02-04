@@ -1,7 +1,7 @@
 # IBGE-Cidades
 <p align="center">App para consulta de cidades por região e estado usando a API do IBGE</p>
 <p align="center">
- <a href="http://www.sophysistemas.com/api-cidades-ibge/">Preview</a>
+ <a href="http://www.sophysistemas.com/api-cidades-ibge/" target="_blank">Preview</a>
 </p>
 
 ### ✅ Features
