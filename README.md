@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-### ✅ Features
+### :heavy_check_mark: Features
 - [x] Filtro por Região
 - [x] Filtro por Estado
 <br>
@@ -23,7 +23,7 @@
 <br>
 <hr>
 
-### 👨🏼‍🏫 Autor
+### :technologist: Autor
 <a href="https://github.com/wellington-lima">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11821851?v=4" width="100px;" alt=""/>
  <br />
