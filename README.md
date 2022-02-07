@@ -18,8 +18,17 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></td>
+  <td>AXIOS</td>
  </tr>
 </table>
+<br>
+<hr>
+
+### :link: Recursos
+ A aplicação consome a API pública do IBGE via AXIOS
+ <p><strong>Regiões:</strong> https://servicodados.ibge.gov.br/api/v1/localidades/regioes</p>
+ <p><strong>Estados:</strong> https://servicodados.ibge.gov.br/api/v1/localidades/regioes/1/estados</p>
+ <p><strong>Municípios:</strong> https://servicodados.ibge.gov.br/api/v1/localidades/estados/16/municipios</p>
 <br>
 <hr>
 
