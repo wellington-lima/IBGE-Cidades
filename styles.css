@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(15deg, #9dfff4 0%, #3f8ebd 100%);
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: white;
+  padding: 10px;
+  border: 5px solid #EBEAFB;
+  border-radius: 15px;
+}
+
+.child {
+  width: 100%;
+}
+
+.div-filter {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px 5px 10px;
+  background-color: #dddde7;
+  border-radius: 10px;
+}
+
+.div-filter select {
+  height: 30px;
+  width: 45%;
+}
+
+.div-head-table {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #dddde7;
+  margin-top: 10px;
+}
+
+.div-table {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 400px;
+}
+
+.div-table .row-city {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(199, 197, 197);
+  height: 25px;
+  color: gray;
+}
+
+.div-table .row-city:hover {
+  background-color: gray;
+  color: white;
+}
+
+.div-total {
+  height: 50px;
+  background-color: #dddde7;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin-top: 5px;
+}
